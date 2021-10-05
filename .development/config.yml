@@ -1,0 +1,24 @@
+server:
+  PORT: 9000
+
+database:
+  #  Database Development
+  DB_USER: "root"
+  DB_PASS: "secret"
+  DB_NAME: "go-sample-dev"
+  DB_HOST: "localhost"
+  DB_PORT: 3306
+
+#  Database Production
+#  DB_USER: "root"
+#  DB_PASS: "secret"
+#  DB_NAME: "go-sample-prod"
+#  DB_HOST: "localhost"
+#  DB_PORT: 3306
+
+#  Database Staging
+#  DB_USER: "root"
+#  DB_PASS: "secret"
+#  DB_NAME: "go-sample-stag"
+#  DB_HOST: "localhost"
+#  DB_PORT: 3306
